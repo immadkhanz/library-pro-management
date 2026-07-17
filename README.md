@@ -16,12 +16,5 @@ A modern, premium Web Engineering project built to manage book collections effor
 - **Frontend:** HTML5, Vanilla CSS3 (Glassmorphism), Bootstrap 5.3
 - **Libraries:** Vanta.js, Three.js, FontAwesome 6.4
 
-## 🚀 Setup Instructions
-
-1. Clone the repository.
-2. Import the `database.sql` into your MySQL database.
-3. Update `db_connect.php` with your local database credentials if necessary.
-4. Launch the project via a local server (e.g., XAMPP, WAMP, or Docker).
-
 ---
 *Developed as part of the Web Engineering Final Lab Project.*
